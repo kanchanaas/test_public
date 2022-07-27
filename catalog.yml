@@ -924,3 +924,10 @@ catalog:
               description: "https://github.com/Microchip-MPLAB-Harmony/CEC173x_soteria_lib/blob/master/readme.md"
               licenses:
                   - {name: "MPLAB Harmony license", path: "mplab_harmony_license.md"}
+                  
+            - name: "Kanchana"
+              category: "security"
+              title: "Soteria Gen3 secure-boot solution library"
+              description: "https://github.com/kanchanaas/H3_test/blob/master/readme.md"
+              licenses:
+                  - {name: "MPLAB Harmony license", path: "mplab_harmony_license.md"}
